@@ -10,38 +10,38 @@ Homey seeks to provide a comprehensive and convenient online platform for homebu
 <details>
 <summary>📂 Project Deliverables</summary>
   
-### [Lab 1 Deliverables](./Deliverables/SC2006-Lab-1.pdf)
+### [Lab 1 Deliverables](./Deliverables/Lab%201/SC2006-Lab-1.pdf)
 > 📝 Compiled SRS [v0.2.0](./Deliverables/Lab%201/Lab1-Deliverables.pdf)
 
-* [x] [Introduction](./Deliverables/Lab%201/Lab1-Deliverables.pdf)
-* [x] [Elicitation of Functional and Non-Functional Requirements](./Deliverables/Lab%201/Lab1-Deliverables.pdf)
-* [x] [Data Dictionary](./Deliverables/Lab%201/Lab1-Deliverables.pdf)
+* [x] Introduction
+* [x] Elicitation of Functional and Non-Functional Requirements
+* [x] Data Dictionary
 * [x] Initial Use Case Model
-  * [x] [Use Case Diagram](./Deliverables/Lab%201/Lab1-Deliverables.pdf)
-  * [x] [Use Case Description](./Deliverables/Lab%201/Lab1-Deliverables.pdf)
-* [x] [Wireframes & Mockups](./Deliverables/Lab%201/Lab1-Deliverables.pdf)
+  * [x] Use Case Diagram
+  * [x] Use Case Description
+* [x] Wireframes & Mockups
 
-### [Lab 2 Deliverables](./Deliverables//SC2006-Lab-2.pdf)
+### [Lab 2 Deliverables](./Deliverables/Lab%202/SC2006-Lab-2.pdf)
 > 📝 Compiled SRS [v0.3.0](./Deliverables/Lab%202/Lab2-Deliverables.pdf)
 
-* [x] [Complete Use Case diagram](./Design//UML/UseCase.pdf)
-* [x] [Use Case descriptions](./Deliverables/Lab%201/Lab1-Deliverables.pdf)
-* [x] [Class diagram of entity classes, key boundary classes and control classes](./Design/UML/ClassDiagram.pdf)
-* [x] [Sequence diagrams of some use cases](./Design/UML/SequenceDiagrams/)
-* [x] [Initial Dialog map](./Design/UML/DialogMap.pdf)
+* [x] Complete Use Case diagram ([exported](./Design/UML/UseCase.pdf))
+* [x] Use Case descriptions
+* [x] Class diagram of entity classes, key boundary classes and control classes ([exported](./Design/UML/ClassDiagram.pdf))
+* [x] Sequence diagrams of some use cases ([exported](./Design/UML/SequenceDiagrams/))
+* [x] [Initial Dialog map] ([exported](./Design/UML/DialogMap.pdf))
 
-### [Lab 3 Deliverables](./Deliverables/SC2006-Lab-5.pdf)
+### [Lab 3 Deliverables](./Deliverables/Lab%203/SC2006-Lab-5.pdf)
 > 📝 Compiled SRS [v0.4.0](./Deliverables/Lab%203/Lab3-Deliverables.pdf)
 
-* [x] [Complete Use Case model](./Design/UML/UseCase.pdf)
+* [x] [Complete Use Case model] ([exported](./Design/UML/UseCase.pdf))
 * [x] Design Model
-  * [x] [Stereotyped Class diagram](./Design/UML/ClassDiagram.pdf)
-  * [x] [Sequence diagrams](./Design/UML/SequenceDiagrams/)
-  * [x] [Dialog map](./Design/UML/DialogMap.pdf)
-* [x] [System architecture](./Design/UML/Architecture.pdf)
-* [x] [Application Skeleton](./Deliverables/Lab%203/Lab3-Deliverables.pdf)
+  * [x] Stereotyped Class diagram ([exported](./Design/UML/ClassDiagram.pdf))
+  * [x] Sequence diagrams ([exported](./Design/UML/SequenceDiagrams/))
+  * [x] Dialog map ([exported](./Design/UML/DialogMap.pdf))
+* [x] System architecture ([exported](./Design/UML/Architecture.pdf))
+* [x] Application Skeleton
 
-### [Lab 4 Deliverables](./Deliverables/SC2006-Lab-4.pdf)
+### [Lab 4 Deliverables](./Deliverables/Lab%204-5/SC2006-Lab-4.pdf)
 > 📝 Compiled SRS [v0.4.3.1](./Deliverables/Lab%204-5/SRS.pdf)
 
 * [x] Working application prototype
@@ -49,9 +49,9 @@ Homey seeks to provide a comprehensive and convenient online platform for homebu
 * [x] Source code
   * [x] [Webapp](https://github.com/crystalcheong/homey)
   * [x] [Backend](https://github.com/swe-homey/flask-api)
-* [x] [Test Cases and Testing Results](./Deliverables/Lab%204-5/SRS.pdf)
+* [x] Test Cases and Testing Results
 
-### [Lab 5 Deliverables](./Deliverables/SC2006-Lab-5.pdf)
+### [Lab 5 Deliverables](./Deliverables/Lab%204-5/SC2006-Lab-5.pdf)
 > 📝 Finalized SRS [v1.0.0](./Documentation/SRS.pdf)
 
  </details>
