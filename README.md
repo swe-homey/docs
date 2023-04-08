@@ -1,6 +1,7 @@
 # Homey
 Homey seeks to provide a comprehensive and convenient online platform for homebuyers, sellers, and renters to search for properties, view property listings and connect with agents. The web application is designed to simplify the property search process and make it easy for users to find their dream home or investment property.
-> - [Demo](https://youtu.be/4qLNeD5MUFQ)
+
+> - [Demo](https://youtu.be/4qLNeD5MUFQ) / [Teaser](https://youtu.be/A9fdw31bSno)
 > - [SRS](./Documentation/SRS.pdf)
 <br/>
 
